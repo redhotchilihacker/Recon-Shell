@@ -230,7 +230,6 @@ cat $1/httpx_clean.txt | ~/Tools/aquatone -chrome-path /usr/bin/chromium -out $1
 
 
 
-
 rm $1/trash.txt
 
 rm $1/all_subdomains.txt
